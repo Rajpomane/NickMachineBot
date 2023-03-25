@@ -1,1 +1,1 @@
-Nick: python3 main.py
+worker: bash Nick
